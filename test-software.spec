@@ -4,7 +4,7 @@ Version: 1.0
 Release: 1
 Copyright: GPL
 Group: System/Base
-Source0:
+Source0: test-software-1.0.zip
 URL: https://github.com/jstuart/build-test-package
 Distribution: Red Hat
 Vendor: James
